@@ -1,6 +1,5 @@
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenaow&layout=compact&show_icons=true&count_private=false">
-
 ### Hi, I'm Shenao Wang 👋 
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenaow&layout=compact&show_icons=true&count_private=false">
 
 - 🎓 An undergraduate student from [Xidian University](https://www.xidian.edu.cn/).
 - :space_invader: To pursue Master's Degree at [HUST](https://www.hust.edu.cn/)
