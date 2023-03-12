@@ -4,7 +4,7 @@
 - 🎓 An undergraduate student from [Xidian University](https://www.xidian.edu.cn/)
 - :space_invader: To pursue my Master's Degree at [HUST](https://www.hust.edu.cn/), Advisor: [Haoyu Wang](https://howiepku.github.io/)
 - 🌞 Interested in Mobile Privacy and Software Security
-- 📚 My recent work mainly focuses on Miniprogram Privacy Compliance and NPM Malware Detection
+- 📚 My recent work mainly focuses on Mini-program Privacy Compliance and NPM Malware Detection(JavaScript)
 - 🚀 I use daily: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
      ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
      ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
