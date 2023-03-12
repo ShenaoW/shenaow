@@ -1,6 +1,7 @@
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenaow&layout=compact&show_icons=true&count_private=false">
 
-### Hi, there! I'm Shenao Wang 👋 
+### Hi, there~
+### I'm Shenao Wang 👋 
 
 - 🎓 An undergraduate student from [Xidian University](https://www.xidian.edu.cn/).
 - 🌞 Interested in Mobile Privacy and Security.
