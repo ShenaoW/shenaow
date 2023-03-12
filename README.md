@@ -1,5 +1,7 @@
-### Hi, I'm Shenao Wang 👋 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenaow&layout=compact&show_icons=true&count_private=false">
+
+### Hi, I'm Shenao Wang 👋 
+
 - 🎓 I’m a student of [Xidian University](https://www.xidian.edu.cn/).
 - 🌞 Interested in Mobile Privacy and Security.
 - 📚 Working on Android/Miniprogram Privacy Compliance recently.
