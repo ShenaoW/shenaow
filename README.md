@@ -3,6 +3,7 @@
 ### Hi, I'm Shenao Wang 👋 
 
 - 🎓 An undergraduate student from [Xidian University](https://www.xidian.edu.cn/).
+- :space_invader: To pursue Master's Degree at [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
 - 🌞 Interested in Mobile Privacy and Security.
 - 📚 Working on Android/Miniprogram Privacy Compliance recently.
 - 🚀 I use daily: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
