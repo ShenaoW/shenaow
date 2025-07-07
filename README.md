@@ -4,7 +4,7 @@
 - 🎓 A PhD student at [HUST](https://www.hust.edu.cn/), Advisor: Prof. [Haoyu Wang](https://howiepku.github.io/)
 - :space_invader: I received my B.S. degree at [XDU](https://www.xidian.edu.cn/), Advisor: Prof. [Hui Li](https://web.xidian.edu.cn/lihui/)
 - 🌞 Interested in Mobile Security and LLM Security
-- 📚 My recent work mainly focuses on Mini-program Privacy and Opensource Software Security
+- 📚 My recent work mainly focuses on Static Analysis and LLM Agent Security
 - 🚀 I use daily: ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
      ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
      ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
