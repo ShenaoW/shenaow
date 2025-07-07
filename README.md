@@ -1,7 +1,7 @@
 ### Hi, I'm Shenao Wang 👋 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenaow&layout=compact&show_icons=true&count_private=false">
 
-- 🎓 A master student at [HUST](https://www.hust.edu.cn/), Advisor: Prof. [Haoyu Wang](https://howiepku.github.io/)
+- 🎓 A PhD student at [HUST](https://www.hust.edu.cn/), Advisor: Prof. [Haoyu Wang](https://howiepku.github.io/)
 - :space_invader: I received my B.S. degree at [XDU](https://www.xidian.edu.cn/), Advisor: Prof. [Hui Li](https://web.xidian.edu.cn/lihui/)
 - 🌞 Interested in Mobile Security and LLM Security
 - 📚 My recent work mainly focuses on Mini-program Privacy and Opensource Software Security
